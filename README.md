@@ -33,11 +33,7 @@ gulp -ws
 
 ## 手机预览
 
-请用微信扫码
-
-![](./dist/example/snapshot/qrcode.png)
-
-[http://weui.github.io/weui/](http://weui.github.io/weui)
+[http://pay2.handshopping.cn/weui/dist/example/](http://pay2.handshopping.cn/weui/dist/example/)
 
 ## Button
 
